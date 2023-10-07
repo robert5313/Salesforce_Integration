@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "salesforcegoogle"
+version = "0.1.0"
+description = ""
+authors = ["Mbatha-Marvin <mbathamarvin597@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+fastapi = "^0.103.2"
+pydantic-settings = "^2.0.3"
+httpx = "^0.25.0"
+uvicorn = "^0.23.2"
+xmltodict = "^0.13.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.9.1"
+pytest = "^7.4.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
