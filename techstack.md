@@ -4,8 +4,8 @@
 robert5313/Salesforce_Integration is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
 - [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 robert5313/Salesforce_Integration is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png' alt='FastAPI'/> [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [robert5313/Salesforce_Integration](https://github.com/robert5313/Salesforce_Integration)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|01/23/24 <br/>Report generated|
+|21<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -107,7 +107,7 @@ Full tech stack [here](/techstack.md)
 |[pluggy](https://pypi.org/project/pluggy)|v1.3.0|10/07/23|Robertkimaiyo |MIT|N/A|
 |[pydantic](https://pypi.org/project/pydantic)|v2.4.2|10/07/23|Robertkimaiyo |MIT|N/A|
 |[python-dotenv](https://pypi.org/project/python-dotenv)|v1.0.0|10/07/23|Robertkimaiyo |BSD-3-Clause|N/A|
-|[starlette](https://pypi.org/project/starlette)|v0.27.0|10/07/23|Robertkimaiyo |BSD-3-Clause|N/A|
+|[starlette](https://pypi.org/project/starlette)|v0.27.0|10/07/23|Robertkimaiyo |BSD-3-Clause|[CVE-2024-24762](https://github.com/advisories/GHSA-2jv5-9r88-3w3p) (High)<br/>[](https://github.com/advisories/GHSA-93gm-qmq6-w238) (High)|
 |[uvicorn](https://pypi.org/project/uvicorn)|v0.23.2|10/07/23|Robertkimaiyo |BSD-3-Clause|N/A|
 |[xmltodict](https://pypi.org/project/xmltodict)|v0.13.0|10/07/23|Robertkimaiyo |MIT|N/A|
 
